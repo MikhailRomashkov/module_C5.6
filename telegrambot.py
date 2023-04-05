@@ -1,6 +1,6 @@
 import telebot
-# from extensions import APIException, Convertor
-# from config import TOKEN, exchanges
+from extensions import APIException, Convertor
+from config import TOKEN, exchanges
 import traceback
 
 exchanges = {
